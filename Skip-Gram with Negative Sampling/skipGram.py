@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 18 16:23:10 2019
 
-@author: Meryem
+@author: Sarah
 """
 
 #from _future_ import division
