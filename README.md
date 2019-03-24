@@ -16,7 +16,7 @@ Description of our delivrable
   We then extracted polarity terms (essentially the words translating the main sentiment of the review) and computed the distance 
   between remanings words in the sentences and our main sentiment term. We used spaCy dependency for a Part Of Speech (POS) Tagging 
   to filter and keep only adjectives and verbs which we assumed to best translate the connotation of the review sentiment. The same 
-  BOW encoding as before was used here to feed our model with this data.
+  BOW word embedding as before was used here to feed our model with this data.
   
   Finally, we turned our polarity levels into categorical values, again to make the training smoother (positive: 1; neutral: 0; negative:   -1).
   
