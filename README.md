@@ -30,7 +30,7 @@ Description of our delivrable
 
   
         c) Results:
-  Our best accuracy was achieved with a Convolutional 1D model which led to an accuracy of 0.75.
+  Our best accuracy was achieved with a series of Dense Layers which led to an accuracy of 0.75.
   
   We also trained an LSTM on our classifier, however the results were less satisfying generating an accuracy of 0.70 only. 
   
