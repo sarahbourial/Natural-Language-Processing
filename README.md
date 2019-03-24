@@ -31,6 +31,7 @@ Description of our delivrable
   
         c) Results:
   Our best accuracy was achieved with a Convolutional 1D model which led to an accuracy of 0.75.
+  
   We also trained an LSTM on our classifier, however the results were less satisfying generating an accuracy of 0.70 only. 
   An interesting extension of our work would be attempting to train our model with an svm-SVC model which we believe could lead to 
   an increased accuracy. Another extension would be computing a Vader polarizer score (it did not seem to be allowed for this assignment
