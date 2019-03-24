@@ -26,7 +26,7 @@ Description of our delivrable
   - 1D Convolutional neural network, essentially a layer that consists of a set of “filters”. The filters take a subset of the input data     at a time, but are applied across the full input (by sweeping over the input). The operations performed by this layer are still           linear/matrix multiplications, but they go through an activation function at the output, which is usually a non-linear operation.
   - Long Short Term Memory networks (LSTMs), a special kind of RNN, capable of learning long-term dependencies. 
   
-  Our final ABSA implementation was done with a 1D Convolutional Neural Network.
+  Our final ABSA implementation was done with a series of Dense Layers.
 
   
         c) Results:
